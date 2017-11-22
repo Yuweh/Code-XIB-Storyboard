@@ -1,1 +1,16 @@
-Twitter UI built with CODE
+UI built with CODE
+
+
+From Brian of Lets Build That App
+
+His Top 10 Reasons Why he Abandoned Storyboards and Interface Builder
+10. Difficulty in laying out views that are stacked
+9. IBOutlet & IBAction crashes when refactoring
+8. Cell Identifiers and Storyboard Id strings are unsafe
+7. Compile time for complicated storyboards increases
+6. Refactoring all fonts in Storyboard components take too long
+5. Productivity decrease when hands leave the keyboard
+4. Screen size on laptop too small for storyboards
+3. Difficult to record and explain things on storyboard
+2. Teaching beginner iOS programmers what is exactly going on is difficult with storyboards.
+1. Merge conflicts will drive you crazy.
