@@ -13,6 +13,27 @@ Sample UI: Twitter
 A common question when beginning an iOS project is whether to write all views in code or use Interface Builder with Storyboards or XIB files. Both are known to occasionally result in working software. However, there are a few considerations:
 
 
+### Launchscreen Guide
+
+iPhoneX Portraint - 1125px × 2436px
+iPhone Portrait iOS 8,9
+Retina HD 5.5 (iPhone 6 Plus) - 1242px x 2208px - Default-736h@3x.png
+Retina HD 4.7 (iPhone 6) - 750px x 1334px - Default-667h@2x.png
+iPhone Landscape iOS 8,9
+Retina HD 5.5 (iPhone 6 Plus) - 2208px x 1242px - Default-Landscape-736h@3x.png
+iPhone Portrait iOS 7-9
+2x (iPhone 4) - 640px x 960px - Default@2x.png
+Retina 4 (iPhone 5) - 640px x 1136px - Default-568h@2x.png
+iPhone Portrait iOS 5,6
+1x (iPhone 3) - 320px x 480px - Default.png
+2x (iPhone 4) - 640px x 960px - Default@2x.png
+Retina 4 (iPhone 5) - 640px x 1136px - Default-568h@2x.png
+
+ref:
+
+https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/launch-screen/
+
+
 ## Why code?
 
 Storyboards are more prone to version conflicts due to their complex XML structure. This makes merging much harder than with code.
